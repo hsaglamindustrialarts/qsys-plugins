@@ -9,9 +9,10 @@
         "version": "1.0.0",
         "description": "A test Q-SYS plugin for demo purposes.",
         "author": "Hilal Saglam",
-        "qplugUrl": "https://hsaglamindustrialarts.github.io/qsys-plugins/MyPlugin/1.0.0/plugin.qplugx",
-        "manifestUrl": "https://hsaglamindustrialarts.github.io/qsys-plugins/MyPlugin/1.0.0/manifest.json"
+        "qplugUrl": "https://hsaglamindustrialarts.github.io/qsys-plugins/Cuelight/1.0.0/X-StageCuelightPlugin.qplugx",
+        "manifestUrl": "https://hsaglamindustrialarts.github.io/qsys-plugins/Cuelight/1.0.0/manifest.json"
       }
     ]
   }
 }
+
