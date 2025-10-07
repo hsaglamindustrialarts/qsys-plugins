@@ -4,5 +4,6 @@
   "version": "1.0.0",
   "description": "A test Q-SYS plugin for demo purposes.",
   "author": "Hilal Saglam",
-  "qplugFile": "plugin.qplugx"
+  "qplugFile": "X-StageCuelightPlugin.qplugx"
 }
+
