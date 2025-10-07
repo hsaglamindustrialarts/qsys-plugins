@@ -1,0 +1,8 @@
+{
+"id": "com.hilal.lighting",
+"name": "Cuelight Plugin",
+"version": "1.0.0",
+"description": "Control lighting systems via REST API.",
+"author": "Hilal Saglam",
+"qplugFile": "X-StageCuelightPlugin.qplugx",
+}
