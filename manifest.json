@@ -1,18 +1,17 @@
 {
   "repository": {
-    "name": "Hilal Saglam Plugin Repository",
+    "name": "Hilal Saglam Q-SYS Plugin Repository",
     "version": "1.0",
     "plugins": [
       {
-        "id": "com.hilal.lighting",
-        "name": "Cuelight Plugin",
+        "id": "com.hsaglam.testplugin",
+        "name": "Test Plugin",
         "version": "1.0.0",
-        "description": "Control lighting systems via REST API.",
+        "description": "A test Q-SYS plugin for demo purposes.",
         "author": "Hilal Saglam",
-        "qplugUrl": "https://hsaglamindustrialarts.github.io/qsys-plugins/Cuelight/1.0.0/Cuelight.qplugx",
-        "manifestUrl": "https://hsaglamindustrialarts.github.io/qsys-plugins/Cuelight/1.0.0/manifest.json"
+        "qplugUrl": "https://hsaglamindustrialarts.github.io/qsys-plugins/MyPlugin/1.0.0/plugin.qplugx",
+        "manifestUrl": "https://hsaglamindustrialarts.github.io/qsys-plugins/MyPlugin/1.0.0/manifest.json"
       }
     ]
   }
-
 }
