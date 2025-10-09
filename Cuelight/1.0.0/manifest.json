@@ -1,9 +1,0 @@
-{
-  "id": "com.hsaglam.testplugin",
-  "name": "Test Plugin",
-  "version": "1.0.0",
-  "description": "A test Q-SYS plugin for demo purposes.",
-  "author": "Hilal Saglam",
-  "qplugFile": "X-StageCuelightPlugin.qplugx"
-}
-
